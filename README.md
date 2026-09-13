@@ -1,6 +1,3 @@
-# cloud-networking-learning
-My practical learning journey in AWS cloud networking, infrastructure, automation, and troubleshooting.
-
 # Cloud Networking Learning
 
 This repository documents my transition from network engineering
